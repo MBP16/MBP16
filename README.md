@@ -1,9 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Park%20HyunWoo&fontSize=90)
 
-<!--
-**hyunwoo6321/hyunwoo6321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Stats
+![hyunwoo6321's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunwoo6321&count_private=true&show_icons=true&theme=darcula)
 
-Here are some ideas to get you started:
+# Top used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunwoo6321)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
