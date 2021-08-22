@@ -20,6 +20,9 @@ I make apps, and I sometimes make discord bots too.
 <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=4A8AC5"/></a>
 <img src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=4A8AC5"/></a>
 
+# I am studying.....
+<img src="https://img.shields.io/badge/C++-000000?style=flat&logo=c&logoColor=4A8AC5"/></a>
+
 # Contact
 - Discord : MBP16#3062
 - (Sub)Email : phw1508@daum.com
