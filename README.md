@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunwoo6321)
 
 # About Me
-I am a middle school student, and I do coding as a hobby.
+I am a high school student, and I do coding as a hobby.
 I make apps, and I sometimes make discord bots too.
 
 # I usually use....
@@ -19,11 +19,8 @@ I make apps, and I sometimes make discord bots too.
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=FA7343"/></a> 
 <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=4A8AC5"/></a>
 <img src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=4A8AC5"/></a>
-
-# I am studying.....
+<img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat&logo=JavaScript&logoColor=white"/></a> 
 
 # Contact
 - Discord : MBP16#3062
 - (Sub)Email : phw1508@daum.com
-
-# I stopped all projects about programming in order to study. Sorry
