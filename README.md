@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Park%20HyunWoo&fontSize=90)
 
 # Stats
-![hyunwoo6321's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunwoo6321&count_private=true&show_icons=true&theme=darcula)
+![MBP16's GitHub stats](https://github-readme-stats.vercel.app/api?username=MBP16&count_private=true&show_icons=true&theme=darcula)
 
 # Top used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunwoo6321)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MBP16)
 
 # About Me
 I am a high school student, and I do coding as a hobby.
