@@ -6,10 +6,6 @@
 # Top used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MBP16)
 
-# About Me
-I am a high school student, and I do coding as a hobby.
-I make apps, and I sometimes make discord bots too.
-
 # I usually use....
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=FFE400"/></a> 
 <img src="https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=FA7343"/></a>
@@ -22,5 +18,4 @@ I make apps, and I sometimes make discord bots too.
 <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat&logo=JavaScript&logoColor=white"/></a> 
 
 # Contact
-- Discord : MBP16#3062
-- (Sub)Email : phw1508@daum.com
+- Discord : mbp16
